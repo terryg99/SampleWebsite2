@@ -2,7 +2,7 @@
 
 # title: My Title (from config.yml file)
 # Site settings
-title: Terry's Latest Sample Website
+title: Terry's Latest Sample Website 222
 # remote_theme: "cotes2020/jekyll-theme-chirpy"
 remote_theme: "benbalter/retlab"
 # remote_theme: "terryg99/minimal-mistakes"
