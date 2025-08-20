@@ -3,8 +3,8 @@
 # title: My Title (from config.yml file)
 # Site settings
 title: Terry's Sample Website
-remote_theme: "cotes2020/jekyll-theme-chirpy"
-# remote_theme: "benbalter/retlab"
+# remote_theme: "cotes2020/jekyll-theme-chirpy"
+remote_theme: "benbalter/retlab"
 # remote_theme: "terryg99/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
