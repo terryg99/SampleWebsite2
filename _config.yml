@@ -3,8 +3,11 @@
 # title: My Title (from config.yml file)
 # Site settings
 title: Terry's Sample Website
+remote_theme: "benbalter/retlab"
+plugins:
+  - jekyll-remote-theme
 # theme: minima
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 # description: Objective: Demonstrate how to use GitHub Pages
 # url: "https://terryg99.github.io" # Update with your GitHub Pages URL
 # baseurl: "" # Should be empty for GitHub Pages, or the name of subfolder if the site is served in a subfolder
